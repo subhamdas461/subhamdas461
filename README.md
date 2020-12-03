@@ -2,7 +2,7 @@
 
 <br>
 <ul>
-  <li>🔭 I’m currently working on Web-Development and React App Dev</li>
+  
   <li>🌱 I’m currently learning with ezzz..</li>
   <li>👯 I’m looking to collaborate with anyone.</li>
   <li>📫 How to reach me: 792001 </li>
