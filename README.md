@@ -1,12 +1,12 @@
-### Hi there, It"s Subham -aka- JH 👋
+### Hi there, It"s Subham Das 👋
 
 <br>
 <ul>
   
   <li>🌱 I’m currently learning with ezzz..</li>
   <li>👯 I’m looking to collaborate with anyone.</li>
-  <li>📫 How to reach me: 792001 </li>
-  <li>⚡ Fun fact: I can sketch !! A realistic Portrait.</li>
+  <li>📫 How to reach me: subhamdas461@gmail.com </li>
+  <li>⚡ Fun fact: Charcoal pencil artist.</li>
 </ul>
 
 <hr>
