@@ -67,5 +67,5 @@
 <br>
 
 <p align="center"> 
-  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=subhamdas461&theme=dark" alt="suubh" />
+  <img align="center" width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=subhamdas461&theme=dark" alt="streak" />
 </p>
