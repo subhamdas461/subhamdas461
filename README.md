@@ -62,7 +62,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=subhamdas461&show_icons=true&theme=dark" alt="my github stats" width="420"/>&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamdas461&layout=compact&theme=dark" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamdas461&layout=compact&theme=dark" alt="languages" height="165">
 </p>
 <br>
 
